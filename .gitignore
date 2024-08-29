@@ -1,3 +1,12 @@
 /node_modules/
 NOTES
 typecad.json
+
+# Build Artifacts
+/dist/
+
+# Log files
+*.log
+
+# Node/npm generated junk
+package-lock.json
